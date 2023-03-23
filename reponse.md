@@ -13,3 +13,8 @@ C'est plus optimizé (vitesse, taille)
 Question 3 : 
 
 docker build -t ma_super_app .
+
+
+
+Question 4 : 
+voir docker-compose.yml
